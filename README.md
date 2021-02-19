@@ -2,7 +2,7 @@
 
 This  repository introduces a popular educational dataset: [Open University Learning Analytics dataset](https://www.nature.com/articles/sdata2017171/)
 
-If you are want to use this dataset, please cite the following paper:
+__If you are want to use this dataset, please cite the following paper:__
 
 _Kuzilek, J., Hlosta, M. & Zdrahal, Z. Open University Learning Analytics dataset. Sci Data 4, 170171 (2017)_
 
