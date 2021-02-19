@@ -4,7 +4,7 @@ This  repository introduces a popular educational dataset: [Open University Lear
 
 If you are want to use this dataset, please cite the following paper:
 
-*Kuzilek, J., Hlosta, M. & Zdrahal, Z. Open University Learning Analytics dataset. Sci Data 4, 170171 (2017). 
+_Kuzilek, J., Hlosta, M. & Zdrahal, Z. Open University Learning Analytics dataset. Sci Data 4, 170171 (2017)_
 
 The dataset is freely available at https://analyse.kmi.open.ac.uk/open_dataset under a CC-BY 4.0 license.
 
